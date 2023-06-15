@@ -31,6 +31,8 @@ export const Container = styled.div`
 
     align-items: center;
 
+    justify-content: center;
+
     margin: 108px 123px 156px 200px;
 
     > img {

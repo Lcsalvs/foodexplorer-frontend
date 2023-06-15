@@ -31,6 +31,8 @@ export const Container = styled.div`
 
     align-items: center;
 
+    justify-content: center;
+
     margin: 100px 123px 200px 122px;
 
     > img {
@@ -60,7 +62,6 @@ export const Container = styled.div`
     .ingredients {
       display: flex;
       gap: 12px;
-      justify-content: center;
     }
 
     .button {
