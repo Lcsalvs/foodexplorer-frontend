@@ -11,6 +11,6 @@ export const Container = styled.div`
   .footer {
     position: absolute;
     width: 100%;
-    bottom: 0px;
+    bottom: -50px;
   }
 `;
